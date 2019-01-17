@@ -6,3 +6,12 @@ Sedikit cerita nih, pengen berbagi aja apa yang ku dapat selama ini dalam dunia 
 
 __Note: yang niat mau belajar bareng aja yak wkwkw, tar kalau banyak ku bikin group discuss nya__
 
+### Software yang digunakan
+
+- XAMPP Server
+- Text Editor (Sublibe, Atom, etc)
+- Git
+- Git Client (Source tree, Git Kraken, Git Tower etc)
+
+__Sebelum contrib, alangkah baiknya membaca user requirement dan entity relation diagram dulu ya__
+
