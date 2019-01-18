@@ -22,3 +22,9 @@ __Sebelum contrib, alangkah baiknya membaca user requirement dan entity relation
 - Setiap commit message harus memiliki pesan yang jelas, apa saja yang diubah
 - Sebelum push sebaiknya di test dan di running di localhost terlebih dahulu
 - Setelah push ke branch yang digunakan, membuat pull request agar code yang dibuat di merge ke master
+
+
+### Clone Git
+```
+git clone https://github.com/piinalpin/portal-mahasiswa.git
+```
